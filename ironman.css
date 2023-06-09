@@ -1,0 +1,23 @@
+.a{
+    position: fixed;
+    right: 0;
+    top: 900;
+    left: 700;
+    bottom: 0px;
+    border: 4px;
+    background-color: bisque;
+    
+}
+.b{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: crimson;
+    text-underline-position: below;
+    
+
+    
+}
+.c{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+
+}

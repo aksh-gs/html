@@ -1,0 +1,92 @@
+.X{
+    margin: 1px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.a{
+    height: 100vh;
+    width: 100%;
+    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(wallpaperflare.com_wallpaper.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.b{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px 80px;
+
+}
+.title{
+    color: #fff;
+    font-size: 67px;
+    font-weight: 500;
+    cursor: pointer;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+span{
+    color: crimson;
+}
+.menu li{
+    list-style: none;
+    display: inline-block;
+}
+.menu li a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 27px;
+    margin-left: 25px;
+    transition: .4s ease;
+
+
+}
+.menu li a:hover{
+    color: crimson;
+    padding: 10px 10px;
+    border: 5px solid #fff;
+}
+.p{
+    position: absolute;
+    top: 85px;
+    left: 100px;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+}
+.home{
+    height: 400px;
+    padding: 70px;
+}
+.name{
+    font-size: 56px;
+    color: #fff;
+    font-weight: 600;
+}
+.p1{
+    color: lemonchiffon;
+    font-size: 20px;
+    padding-top: 10px;
+}
+.button{
+    height: 40px;
+    color: #fff;
+    background: crimson;
+    font-size: 22px;
+    padding: 20px 30px;
+    margin-top: 20px;
+    border: none;
+    border-radius: 10px;
+    transition: .4s ease;
+    cursor: pointer;
+    
+}
+.button :hover{
+    background: none;
+    border: 3px solid crimson;
+    
+}

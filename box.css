@@ -1,0 +1,36 @@
+.a{
+    
+    width: 250px;
+    height: 250px;
+    background-color: chartreuse;
+    margin: 100px;
+    
+    
+
+}
+.b{
+    
+    width: 250px;
+    height: 250px;
+    background-color: chartreuse;
+
+    position: absolute;
+    bottom: 100px;
+    left: 600px;
+    right: 350px;
+    top: 100px;
+
+    
+    
+}
+.c{
+    width: 250px;
+    height: 250px;
+
+    background-color: chartreuse;
+    position: absolute;
+    bottom: 1400px;
+    left: 1100px;
+    right: 100px;
+    top: 100px;
+}

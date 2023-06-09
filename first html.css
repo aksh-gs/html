@@ -1,0 +1,32 @@
+h1{
+    color: darkgreen;
+    text-align: center;
+}
+h2{
+    color: blue;
+    text-align: right;
+    font-size: larger;
+    font-style: unset;
+}
+p{
+    font-style: oblique;
+    color:#E55807;
+    font-family: cursive;
+    outline: 0cqmax;
+    
+}
+
+#x{
+   
+  padding: 50px;
+  width: 150px;
+  filter: grayscale(100%);
+  max-width: 100px;
+  height: auto;
+}
+
+
+.ab{
+    color: blueviolet;
+    background-color: darkmagenta;
+}
